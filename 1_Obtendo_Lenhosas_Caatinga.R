@@ -3,7 +3,7 @@
 
 # Os seguintes passos serão realizados:
 # a) Receber as listas do livro Siqueira Filho e do Marcelo Moro
-# b) Observar e tratar as listas (remoção de espaços no nome das espécies,junção das listas,etc...)
+# b) Observar e tratar as listas (remoção de espaços no nome das espécies,junção das listas,etc.)
 # c) Submeter a lista completa ao TNRS
 # d) Submissão da lista ao Reflora (por meio do pacote Flora, disponível no R, realizar a captação de informações 
 # sobre as espécies, mais especificamente o hábito, para que seja possível selecionar as espécies lenhosas da Caatinga)
