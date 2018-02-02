@@ -13,12 +13,15 @@
 # Autora: Nicolli Albuquerque
 # Modificações e acréscimos:Juliana Stropp
 
-#0.Definição de diretório inicial
-setwd("C:/Users/albuq/Dropbox/2016-2017 biogeografia funcional de sementes de especies lenhosas da caatnga/Folhas e sementes/R_scripts/lista_de_especies_caatinga/dados")
+#0.Definindo o diretório de trabalho
+setwd("C:/Users/MyName")
 
-#0.Carregamento dos pacotes 
+#0.Pacotes a serem instalados e ativados
+install.packages("flora")
 library(flora)
+install.packages("stringr")
 library(stringr)
+install.packages("plyr")
 library(plyr)
 
 ## a) Receber as listas do livro Siqueira Filho e do Marcelo Moro;
